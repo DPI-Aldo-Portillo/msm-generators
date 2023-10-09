@@ -51,3 +51,5 @@ create  app/views/movies/show.html.erb
 route  RESTful routes
 insert  config/routes.rb
 ```
+
+Creates routes, controllers, views and models. 
